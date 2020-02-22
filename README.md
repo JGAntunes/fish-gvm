@@ -40,8 +40,9 @@ and go binary to the `PATH`.
 ## Kudos
 
 Based on:
-[FabioAntunes/fish-nvm](https://github.com/FabioAntunes/fish-nvm)
-[scorphus/plugin-go-gvm](https://github.com/scorphus/plugin-go-gvm)
+
+* [FabioAntunes/fish-nvm](https://github.com/FabioAntunes/fish-nvm)
+* [scorphus/plugin-go-gvm](https://github.com/scorphus/plugin-go-gvm)
 
 ### License
 
