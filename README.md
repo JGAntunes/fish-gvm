@@ -7,8 +7,8 @@ gvm wrapper for fish-shell.
 With [fisher](https://github.com/jorgebucaran/fisher)
 
 ```fish
-fisher add JGAntunes/fish-gvm
-fisher add edc/bass
+fisher install JGAntunes/fish-gvm
+fisher install edc/bass
 ```
 
 With [oh-my-fish]
